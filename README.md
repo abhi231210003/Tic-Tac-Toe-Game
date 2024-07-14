@@ -16,5 +16,5 @@
     <li>JavaScript</li>
 </ul>
 
-# Game Link here
-<a href="https://abhi231210003.github.io/Tic-Tac-Toe-Game/">Click Here</a>
+# Link to the Game
+<a href="https://abhi231210003.github.io/Tic-Tac-Toe-Game/">Tic-Tac-Toe</a>
