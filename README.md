@@ -17,4 +17,4 @@
 </ul>
 
 # Game Link here
-<a href="/">
+<a href="/">Click Here</a>
