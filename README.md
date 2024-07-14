@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-Game
-<b>Play a classic Tic Tac Toe game!</b>
+<b>Play a classic Tic Tac Toe game!</b><br>
 <b>Feature:-</b>
 <ul>
     <li>Two-player gameplay.</li>
