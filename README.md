@@ -17,4 +17,4 @@
 </ul>
 
 # Link to the Game
-<a href="https://abhi231210003.github.io/Tic-Tac-Toe-Game/">Tic-Tac-Toe </a>
+<a href="https://abhi231210003.github.io/Tic-Tac-Toe-Game/">Tic-Tac-Toe</a>
